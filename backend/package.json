@@ -21,7 +21,7 @@
     "cors": "^2.8.5",
     "css-loader": "^3.2.0",
     "dotenv": "^7.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "file-loader": "^4.2.0",
     "helper": "0.0.13",
     "html-loader": "^0.5.5",
